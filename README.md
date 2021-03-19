@@ -30,7 +30,7 @@ Alex Gathuri
 
 # Python link
 
-Week3 Live Link: [alexgathuri/week3](https://drive.google.com/drive/folders/1dXmBcWqcMZ2PiRcwUc1F8oTk4UAk5-7L?usp=sharing)
+Week3 Link: [alexgathuri/week3](https://drive.google.com/drive/folders/1dXmBcWqcMZ2PiRcwUc1F8oTk4UAk5-7L?usp=sharing)
 
 # Contact information
 * Email: [Email](mailto:gathurialex4@gmail.com)
