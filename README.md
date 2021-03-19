@@ -13,7 +13,7 @@ Alex Gathuri
 # Setup instructions
 
 1. Clone the repo:
-    `git clone https://github.com/alexgathuri/week3ip.git`
+    `git clone https://github.com/alexgathuri/week3IP.git`
 
 1. Switch into the directory
     `cd week3`
