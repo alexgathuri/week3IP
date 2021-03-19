@@ -28,7 +28,7 @@ Alex Gathuri
 
 
 
-# Python link link
+# Python link
 
 Week3 Live Link: [alexgathuri/week3](https://drive.google.com/drive/folders/1dXmBcWqcMZ2PiRcwUc1F8oTk4UAk5-7L?usp=sharing)
 
